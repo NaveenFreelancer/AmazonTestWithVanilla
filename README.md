@@ -4,8 +4,6 @@
 
 ## vanilla
 
-This is a base starter kit framework that you can use to build your tests for the above assignment.
-However, if you are more comfortable with your own tool kit, feel free to use that as well!
 
 ## External dependencies
 
@@ -20,9 +18,8 @@ For this project to run, you would need to install below 3 dependencies on your 
 
 ## Getting Started
 
-For easiest way to getting started, extract this project and open it from IntelliJ.
-> Then Do a dry run on test in : test -> java -> TestSandbox class and see if your setup is correct.  
 
-Tip: Do remember to update this readme file for anything else that you think needs updating here!
+> Run on test in : test -> java -> AmazonTest class and see if your setup is correct.  
+
 
 ## Success
